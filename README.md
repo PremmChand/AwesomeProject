@@ -1,7 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
-
 
 # 🛒 React Redux Cart App with Redux-Saga
 
@@ -22,6 +20,10 @@ This is a simple React app that demonstrates the use of **Redux** and **Redux-Sa
 - 📦 Lightweight and easy to understand structure
 
 ---
+
+## 📱 App Screenshot
+
+![App Screenshot](./image/screenshot.png)
 
 ## 🚀 Getting Started
 
