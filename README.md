@@ -29,10 +29,10 @@ This is a simple React app that demonstrates the use of **Redux** and **Redux-Sa
 ### 🛒 Cart Screen
 ![Screenshot2](components/images/assets/Screenshot2.png)
 
-### 👤 User List
+### 👤 Cart List
 ![Screenshot3](components/images/assets/Screenshot3.png)
 
-### 🧰 Product Detail
+### 🧰 User Detail
 ![Screenshot4](components/images/assets/Screenshot4.png)
 
 
