@@ -1,6 +1,8 @@
 
 import { SET_USER_DATA } from './constants'
-const initialState = [];
+const initialState = {
+  users: []
+};
 export const useReducer = (state = initialState, action) => { // action is the return value of action.js file, state contains all data foe the applicatin
     switch (action.type) {
         case SET_USER_DATA:
