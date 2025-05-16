@@ -27,13 +27,13 @@ This is a simple React app that demonstrates the use of **Redux** and **Redux-Sa
 ![Screenshot1](images/assets/Screenshot1.png)
 
 ### 🛒 Cart Screen
-![Screenshot2](images/assets/Screenshot1.png)
+![Screenshot2](images/assets/Screenshot2.png)
 
 ### 👤 User List
-![Screenshot3](images/assets/Screenshot1.png)
+![Screenshot3](images/assets/Screenshot3.png)
 
 ### 🧰 Product Detail
-![Screenshot4](images/assets/Screenshot1.png)
+![Screenshot4](images/assets/Screenshot4.png)
 
 
 ## 🚀 Getting Started
